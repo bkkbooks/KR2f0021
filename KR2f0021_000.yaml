@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2f0021/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書史部六
+  hash: sha256:5f60e64555bb05171f88ef93eab5b1c285f44f3268a9880b3cbd1f2ca80456fa
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2f0021_WYG_000-1a, image: WYG0428/WYG0428-0559a.png}
+body:
+  text: 胡端敏奏議詔令奏議類二奏議之屬提要臣等謹案胡端敏奏議十卷明胡世寧撰世寧字永清仁和人𢎞治癸丑進士官至兵部尚書事迹具明史本傳世寧為推官時屢折岐藩之勢為主事時上書極論時政闕失與李承勛魏校余祜善稱南都四君子為江西副使時上疏劾寧王宸濠為所搆中危禍幾於不免宸濠敗後復起又屢糾中官趙欽剛聰等風節震一世惟議大禮與張璁桂蕚合而他事乂無一不與璁蕚忤蓋意見偶同非有所依附也是集所録奏議皆與史傳相發明中多辭職乞罷之疏蓋正德末宸濠劉瑾內外交訌嘉靖初蕚璁専權相軋世寧抵牾其問動多掣肘遂時時有引退之心蓋孤立危疑不能自安其位不得已而出於斯固非以退鳴髙者比也乾隆四十三年五月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:a41085f15e6ccb2527898c12705f543eef6c5c926d9526b84366ab802db1e99e
+metadata:
+  title: 胡端敏奏議
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:32:45.934068'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR2f0021/KR2f0021_000.txt
+hash: sha256:441ec0998161d61188ec70247e4d2fbe4e38e6fc2e877ea0bbfa7218b8ca7f29
